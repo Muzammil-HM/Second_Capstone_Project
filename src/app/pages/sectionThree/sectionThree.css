@@ -1,0 +1,64 @@
+.bgg-color {
+    background-color: #FFFCF4;
+    padding-top: 100px;
+}
+
+.pra {
+    color: #696262;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+
+}
+
+.bg-btn {
+    width: 118px;
+    height: 50px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 25px;
+    color: #FFF;
+    background: #FFB900;
+}
+
+.bg-btn1 {
+    width: 118px;
+    height: 50px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 25px;
+    color: #FFF;
+    background: #171100;
+}
+
+.bg-btn2 {
+    width: 118px;
+    height: 50px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 25px;
+    color: #FFF;
+    background: #171100;
+}
+
+.bg-card-color {
+    width: 370px;
+    height: 467px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #FFF;
+    box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.05);
+}
+.dot {
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+    .pra {
+        font-size: 12px;
+    }
+  
+  }

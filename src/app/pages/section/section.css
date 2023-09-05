@@ -1,0 +1,25 @@
+.back-color {
+    background-color: #2E2100;
+
+}
+
+.para {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 40px;
+    width: 740px;
+}
+
+.text {
+    color: #BFBCB2;
+}
+
+@media screen and (max-width: 768px) {
+.para{
+    width: auto;
+    
+}
+}

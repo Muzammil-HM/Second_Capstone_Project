@@ -1,0 +1,38 @@
+.pdd {
+    padding-top: 100px;
+}
+
+.text-size {
+    color: #171100;
+    font-family: Sen;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -0.76px;
+    width: 470px;
+}
+
+.prgrph {
+    color: #5F5B53;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    width: 458px;
+}
+
+@media screen and (max-width: 768px) {
+    .text-size {
+        width: auto;
+    }
+
+    .prgrph{
+        width: auto;
+    }
+
+    .img {
+        text-align: center;
+    }
+}

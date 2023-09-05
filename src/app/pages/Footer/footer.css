@@ -1,0 +1,30 @@
+.bg-clor {
+    background-color: #2E2100;
+}
+
+.logo {
+    color: #FFB900;
+}
+
+.pragra {
+    color: #BFBCB2;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.list {
+    color: #BFBCB2;
+    display: block;
+    list-style-type: none;
+}
+
+.bg-border {
+    border-bottom: #2E2100 !important;
+}
+
+.color {
+    color: #BFBCB2;
+}

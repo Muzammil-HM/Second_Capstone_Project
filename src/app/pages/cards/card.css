@@ -1,0 +1,53 @@
+.pd {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.prag {
+    color: #5F5B53;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 458px;
+}
+
+.bg-card {
+    width: 370px;
+    height: 466px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    background: #FFF;
+    box-shadow: 0px 18px 36px 0px rgba(0, 0, 0, 0.05);
+}
+
+.bg-color {
+    width: 118px;
+    height: 50px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 25px;
+    color: #FFF;
+    background: #FFB900;
+}
+
+.bg-color1 {
+    width: 118px;
+    height: 50px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 25px;
+    color: #FFF;
+    background: black;
+}
+
+.bg-color2 {
+    width: 118px;
+    height: 50px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 25px;
+    color: #FFF;
+    background: black;
+}
