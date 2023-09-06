@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import './card.css'
-import icons from '../../assets/images/icons.svg';
+import icons from '../../assets/images/Icons.svg';
 import penImage from '../../assets/images/penImage.svg';
 import cameraImage from '../../assets/images/cameraImage.svg';
 import pageImage from '../../assets/images/pageImage.svg';
