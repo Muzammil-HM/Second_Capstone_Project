@@ -16,3 +16,13 @@
     
 }
 
+.bootstrap {
+    padding: 0 30px;
+}
+
+@media (max-width: 576px ) {
+.bootstrap{
+    padding: 0;
+}
+}
+
