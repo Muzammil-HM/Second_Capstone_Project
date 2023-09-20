@@ -26,7 +26,7 @@ function NavBar() {
                   <a className="nav-link disabled" aria-disabled="true">Reviews</a>
                 </li>
               </ul>
-              <div className='px-5'>
+              <div className='bootstrap'>
                 <button className='header-btn text-white'>Sign Up</button>
               </div>
             </div>
