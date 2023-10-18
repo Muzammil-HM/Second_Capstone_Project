@@ -46,12 +46,12 @@
 
 @media screen and (max-width: 768px) {
     .font {
-        width: auto;
+        width: 96%;
 
     }
 
     .pragrph {
-        width: auto;
+        width: 98%;
     }
 
 
@@ -61,3 +61,21 @@
     }
 
 }
+
+@media (min-width: 769px) and (max-width: 800px){
+    .font {
+        width: 96%;
+
+    }
+
+    .pragrph {
+        width: 98%;
+    }
+
+
+    .spn {
+        display: block;
+        padding-top: 15px;
+    }
+}
+

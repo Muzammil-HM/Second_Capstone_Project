@@ -36,3 +36,17 @@
         text-align: center;
     }
 }
+
+@media (min-width: 769px) and (max-width: 800px){
+    .text-size {
+        width: auto;
+    }
+
+    .prgrph{
+        width: auto;
+    }
+
+    .img {
+        text-align: center;
+    }
+}

@@ -18,8 +18,19 @@
 }
 
 @media screen and (max-width: 768px) {
-.para{
+ .para{
     width: auto;
     
+ }
+
 }
-}
+
+@media (min-width: 770px) and (max-width: 834px) {
+    .para{
+        width: auto;
+        
+     }
+
+
+
+}    

@@ -51,3 +51,29 @@
     color: #FFF;
     background: black;
 }
+
+@media screen and (max-width: 768px) {
+    .prag {
+        width: auto;
+    }
+
+    .d_none {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .card-resp {
+        padding-right: 34px;
+        
+    }
+    
+}
+
+@media (min-width: 770px) and (max-width: 800px) {
+    .card-resp {
+        display: block;
+        
+    }
+
+}    

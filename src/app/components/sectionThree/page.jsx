@@ -7,7 +7,7 @@ import girl from '../../assets/images/girl.svg';
 import dots from '../../assets/images/dots.svg';
 import dot from '../../assets/images/dot.svg';
 
-const Section3Page = (props) => {
+const Section3Page = () => {
     const data = [
         {
             cardImage: man3,
@@ -47,7 +47,7 @@ const Section3Page = (props) => {
                 <div className='row pb-5'>
                     {data.map((item) => {
                         return (
-                            <div className='col-md-4'>
+                            <div className='col-md-4 overflow-x-hidden'>
                                 <div className="bg-card-color">
                                     <Image src={item.cardImage} className='mb-3' />
                                     <span className='ms-3 pb-2 border-bottom'><Image src={item.dotImage} /> {item.text} </span>

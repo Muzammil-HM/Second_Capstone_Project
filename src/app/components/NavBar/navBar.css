@@ -11,8 +11,7 @@
 } 
 
 .border1 {
-    border-bottom: solid black;
-    border-width: 2px;
+    border-bottom: 2px solid black;
     
 }
 
@@ -25,4 +24,5 @@
     padding: 0;
 }
 }
+
 

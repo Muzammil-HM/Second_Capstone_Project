@@ -7,7 +7,7 @@ import man2 from '../../assets/images/man2.svg';
 
 function Section1Page() {
   return (
-    <div className='container pdd '>
+    <div className='container pdd'>
       <div className='row py-5'>
         <div className='col-md-7'>
           <div className="img">
